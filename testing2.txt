@@ -2,7 +2,7 @@
 program opened by 22BCAC36
 import java.util.*;
 class Sort
-{
+{ changes
     int a[],n;
     static Scanner sc=new Scanner(System.in);
     Sort(int nn)
